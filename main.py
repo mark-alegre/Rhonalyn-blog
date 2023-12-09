@@ -9,7 +9,7 @@ from PIL import Image
 st.set_page_config(page_title="Rhona's Blog", page_icon="🥰", layout="wide")
 hide_st_style = """
             <style>
-            #MainMenu {visibility: hidden;}
+            MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             header {visibility: hidden;}
             </style>
