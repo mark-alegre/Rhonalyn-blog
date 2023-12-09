@@ -7,10 +7,6 @@ from PIL import Image
 
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="Rhona's Blog", page_icon="🥰", layout="wide")
-st.set_page_config(
-        page_title="Mhark's Blog",
-        page_icon=img
-)
 hide_st_style = """
             <style>
             #MainMenu {visibility: hidden;}
